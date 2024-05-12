@@ -1,6 +1,7 @@
-sagemaker
-scikit-learn
-pandas
-numpy
+sagemaker==2.219.0
+scikit-learn==1.3.2
+pandas==2.0.3
+numpy==1.24.4
 ipykernel
 python-dotenv
+streamlit==1.34.0
